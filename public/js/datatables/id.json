@@ -1,0 +1,312 @@
+{
+    "processing": "Sedang memproses...",
+    "lengthMenu": "Tampilkan _MENU_ data per halaman",
+    "zeroRecords": "Tidak ditemukan data yang sesuai",
+    "info": "Menampilkan _START_ sampai _END_ dari _TOTAL_ data",
+    "infoEmpty": "Menampilkan 0 sampai 0 dari 0 data",
+    "infoFiltered": "(disaring dari _MAX_ total data)",
+    "infoPostFix": "",
+    "search": "Cari:",
+    "thousands": ",",
+    "loadingRecords": "Memuat...",
+    "paginate": {
+        "first": "Pertama",
+        "last": "Terakhir",
+        "next": "Selanjutnya",
+        "previous": "Sebelumnya"
+    },
+    "aria": {
+        "sortAscending": ": aktifkan untuk mengurutkan kolom secara ascending",
+        "sortDescending": ": aktifkan untuk mengurutkan kolom secara descending"
+    },
+    "autoFill": {
+        "cancel": "Batal",
+        "fill": "Isi semua sel dengan <i>%d<\/i>",
+        "fillHorizontal": "Isi sel secara horizontal dengan <i>%d<\/i>",
+        "fillVertical": "Isi sel secara vertikal dengan <i>%d<\/i>"
+    },
+    "buttons": {
+        "collection": "Kumpulan",
+        "colvis": "Visibilitas Kolom",
+        "colvisRestore": "Pulihkan visibilitas",
+        "copy": "Salin",
+        "copyKeys": "Tekan Ctrl+C atau Cmd+C untuk menyalin tabel.<br><br>Untuk membatalkan, klik pada pesan ini atau tekan Esc.",
+        "copySuccess": {
+            "1": "1 baris berhasil disalin",
+            "_": "%d baris berhasil disalin"
+        },
+        "csv": "CSV",
+        "excel": "Excel",
+        "pageLength": {
+            "-1": "Tampilkan Semua Baris",
+            "_": "Tampilkan %d Baris"
+        },
+        "pdf": "PDF",
+        "print": "Cetak",
+        "create": "Tambah",
+        "edit": "Edit",
+        "remove": "Hapus"
+    },
+    "decimal": "",
+    "editor": {
+        "close": "Tutup",
+        "create": {
+            "button": "Baru",
+            "submit": "Tambah",
+            "title": "Tambah data baru"
+        },
+        "edit": {
+            "button": "Edit",
+            "submit": "Update",
+            "title": "Edit data"
+        },
+        "error": {
+            "system": "Terjadi kesalahan pada sistem (<a target=\"_blank\" href=\"%s\">Informasi lebih lanjut<\/a>)."
+        },
+        "multi": {
+            "info": "Beberapa item terpilih",
+            "restore": "Urungkan perubahan",
+            "title": "Beberapa item terpilih"
+        },
+        "remove": {
+            "button": "Hapus",
+            "submit": "Hapus",
+            "title": "Hapus data"
+        }
+    },
+    "searchBuilder": {
+        "add": "Tambah Kondisi",
+        "button": {
+            "0": "Pembangun Pencarian",
+            "_": "Pembangun Pencarian (%d)"
+        },
+        "clearAll": "Bersihkan Semua",
+        "condition": "Kondisi",
+        "conditions": {
+            "array": {
+                "contains": "Berisi",
+                "empty": "Kosong",
+                "equals": "Sama dengan",
+                "not": "Tidak sama dengan",
+                "notEmpty": "Tidak kosong",
+                "without": "Tanpa"
+            },
+            "date": {
+                "after": "Setelah",
+                "before": "Sebelum",
+                "empty": "Kosong",
+                "equals": "Sama dengan",
+                "not": "Tidak sama dengan",
+                "notBetween": "Tidak di antara",
+                "notEmpty": "Tidak kosong"
+            },
+            "number": {
+                "between": "Di antara",
+                "empty": "Kosong",
+                "equals": "Sama dengan",
+                "gt": "Lebih besar dari",
+                "gte": "Lebih besar atau sama dengan",
+                "lt": "Lebih kecil dari",
+                "lte": "Lebih kecil atau sama dengan",
+                "not": "Tidak sama dengan",
+                "notBetween": "Tidak di antara",
+                "notEmpty": "Tidak kosong"
+            },
+            "string": {
+                "contains": "Berisi",
+                "empty": "Kosong",
+                "endsWith": "Berakhir dengan",
+                "equals": "Sama dengan",
+                "not": "Tidak sama dengan",
+                "notEmpty": "Tidak kosong",
+                "startsWith": "Dimulai dengan"
+            }
+        },
+        "data": "Data",
+        "deleteTitle": "Hapus filter",
+        "leftTitle": "Kiri",
+        "logicAnd": "Dan",
+        "logicOr": "Atau",
+        "rightTitle": "Kanan",
+        "title": {
+            "0": "Pembangun Pencarian",
+            "_": "Pembangun Pencarian (%d)"
+        },
+        "value": "Nilai"
+    },
+    "searchPanes": {
+        "clearMessage": "Bersihkan Semua",
+        "collapse": {
+            "0": "Panel Pencarian",
+            "_": "Panel Pencarian (%d)"
+        },
+        "count": "{total}",
+        "countFiltered": "{shown} ({total})",
+        "emptyPanes": "Tidak ada Panel Pencarian",
+        "loadMessage": "Memuat Panel Pencarian",
+        "title": "Filter Aktif - %d",
+        "showMessage": "Tampilkan Semua",
+        "collapseMessage": "Sembunyikan Semua"
+    },
+    "select": {
+        "cells": {
+            "1": "1 sel terpilih",
+            "_": "%d sel terpilih"
+        },
+        "columns": {
+            "1": "1 kolom terpilih",
+            "_": "%d kolom terpilih"
+        },
+        "rows": {
+            "1": "1 baris terpilih",
+            "_": "%d baris terpilih"
+        }
+    },
+    "datetime": {
+        "amPm": [
+            "AM",
+            "PM"
+        ],
+        "hours": "Jam",
+        "minutes": "Menit",
+        "next": "Selanjutnya",
+        "previous": "Sebelumnya",
+        "seconds": "Detik",
+        "weekdays": [
+            "Min",
+            "Sen",
+            "Sel",
+            "Rab",
+            "Kam",
+            "Jum",
+            "Sab"
+        ],
+        "unknown": "-"
+    },
+    "emptyTable": "Tidak ada data yang tersedia pada tabel ini",
+    "editor": {
+        "close": "Tutup",
+        "create": {
+            "button": "Baru",
+            "submit": "Tambah",
+            "title": "Tambah data baru"
+        },
+        "edit": {
+            "button": "Edit",
+            "submit": "Update",
+            "title": "Edit data"
+        },
+        "error": {
+            "system": "Terjadi kesalahan pada sistem (<a target=\"_blank\" href=\"%s\">Informasi lebih lanjut<\/a>)."
+        },
+        "multi": {
+            "info": "Beberapa item terpilih",
+            "restore": "Urungkan perubahan",
+            "title": "Beberapa item terpilih"
+        },
+        "remove": {
+            "button": "Hapus",
+            "submit": "Hapus",
+            "title": "Hapus data"
+        }
+    },
+    "lengthMenu": "Tampilkan _MENU_ data per halaman",
+    "loadingRecords": "Memuat...",
+    "paginate": {
+        "first": "Pertama",
+        "last": "Terakhir",
+        "next": "Selanjutnya",
+        "previous": "Sebelumnya"
+    },
+    "processing": "Sedang memproses...",
+    "search": "Cari:",
+    "searchBuilder": {
+        "add": "Tambah Kondisi",
+        "button": {
+            "0": "Pembangun Pencarian",
+            "_": "Pembangun Pencarian (%d)"
+        },
+        "clearAll": "Bersihkan Semua",
+        "condition": "Kondisi",
+        "conditions": {
+            "array": {
+                "contains": "Berisi",
+                "empty": "Kosong",
+                "equals": "Sama dengan",
+                "not": "Tidak sama dengan",
+                "notEmpty": "Tidak kosong",
+                "without": "Tanpa"
+            },
+            "date": {
+                "after": "Setelah",
+                "before": "Sebelum",
+                "empty": "Kosong",
+                "equals": "Sama dengan",
+                "not": "Tidak sama dengan",
+                "notBetween": "Tidak di antara",
+                "notEmpty": "Tidak kosong"
+            },
+            "number": {
+                "between": "Di antara",
+                "empty": "Kosong",
+                "equals": "Sama dengan",
+                "gt": "Lebih besar dari",
+                "gte": "Lebih besar atau sama dengan",
+                "lt": "Lebih kecil dari",
+                "lte": "Lebih kecil atau sama dengan",
+                "not": "Tidak sama dengan",
+                "notBetween": "Tidak di antara",
+                "notEmpty": "Tidak kosong"
+            },
+            "string": {
+                "contains": "Berisi",
+                "empty": "Kosong",
+                "endsWith": "Berakhir dengan",
+                "equals": "Sama dengan",
+                "not": "Tidak sama dengan",
+                "notEmpty": "Tidak kosong",
+                "startsWith": "Dimulai dengan"
+            }
+        },
+        "data": "Data",
+        "deleteTitle": "Hapus filter",
+        "leftTitle": "Kiri",
+        "logicAnd": "Dan",
+        "logicOr": "Atau",
+        "rightTitle": "Kanan",
+        "title": {
+            "0": "Pembangun Pencarian",
+            "_": "Pembangun Pencarian (%d)"
+        },
+        "value": "Nilai"
+    },
+    "searchPanes": {
+        "clearMessage": "Bersihkan Semua",
+        "collapse": {
+            "0": "Panel Pencarian",
+            "_": "Panel Pencarian (%d)"
+        },
+        "count": "{total}",
+        "countFiltered": "{shown} ({total})",
+        "emptyPanes": "Tidak ada Panel Pencarian",
+        "loadMessage": "Memuat Panel Pencarian",
+        "title": "Filter Aktif - %d",
+        "showMessage": "Tampilkan Semua",
+        "collapseMessage": "Sembunyikan Semua"
+    },
+    "select": {
+        "cells": {
+            "1": "1 sel terpilih",
+            "_": "%d sel terpilih"
+        },
+        "columns": {
+            "1": "1 kolom terpilih",
+            "_": "%d kolom terpilih"
+        },
+        "rows": {
+            "1": "1 baris terpilih",
+            "_": "%d baris terpilih"
+        }
+    },
+    "zeroRecords": "Tidak ditemukan data yang sesuai"
+}
